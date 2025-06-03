@@ -1,13 +1,17 @@
 # José Galdámez
 ## Fullstack Developer
 
-Software engineering student with experience in mobile and web application development. I have worked on projects with Flutter, React JS and Angular. You can visit my personal [website](https://josegaldamez.dev/) and read my blog. You can also visit my [YouTube channel](https://www.youtube.com/c/CódigoCorrecto) where I share what I learn.
+Software engineering student with experience in mobile and web application development. I have worked on projects with Flutter, React JS and Angular. You can visit my personal [website](https://josegaldamez.dev/) and read my blog. You can also visit my [[YouTube channel]([Jose Galdamez - Dev](https://www.youtube.com/@josegaldamez-dev)] where I share what I learn.
 
 ### Skills
+- Next JS
 - React JS
+- Android Kotlin (Jetpack Compose)
 - Flutter
 - Angular
 - Node JS
+- Java SpringBoot
+- ASP .Net
 - etc...
 
 ⚡ Open to job offers...

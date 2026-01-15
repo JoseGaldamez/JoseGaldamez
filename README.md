@@ -1,13 +1,13 @@
-# Hola, soy José Galdámez 👋
+# Hola, soy José Galdámez 
 ### Fullstack Software Developer | Web & Mobile Specialist
 
 ¡Bienvenido a mi perfil! Soy un desarrollador apasionado por crear soluciones tecnológicas escalables y eficientes. Transformo ideas complejas en aplicaciones funcionales utilizando las tecnologías más modernas del mercado.
 
-- 🔭 Actualmente trabajando en proyectos **Fullstack** y creación de contenido educativo.
-- 🚀 Especializado en arquitecturas robustas tanto en **Frontend** como en **Backend**.
-- 👨‍💻 Visita mi portafolio: [josegaldamez.dev](https://josegaldamez.dev/)
-- 📺 Mira mis tutoriales: [Jose Galdamez - Dev](https://www.youtube.com/@josegaldamez-dev)
-- 📫 **Open to work:** Estoy abierto a nuevas oportunidades y retos profesionales.
+- Actualmente trabajando en proyectos **Fullstack** y creación de contenido educativo.
+- Especializado en arquitecturas robustas tanto en **Frontend** como en **Backend**.
+- Visita mi portafolio: [josegaldamez.dev](https://josegaldamez.dev/)
+- Mira mis tutoriales: [Jose Galdamez - Dev](https://www.youtube.com/@josegaldamez-dev)
+- **Open to work:** Estoy abierto a nuevas oportunidades y retos profesionales.
 
 ---
 
@@ -27,7 +27,7 @@
 
 ---
 
-### 🤝 Conecta conmigo
+### Conecta conmigo
 
 <div align="left">
   <a href="https://josegaldamez.dev/" target="_blank">

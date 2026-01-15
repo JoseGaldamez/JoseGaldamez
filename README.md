@@ -28,5 +28,5 @@
 ---
 
 ### 📊 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=TU_USUARIO_DE_GITHUB&show_icons=true&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=TU_USUARIO_DE_GITHUB&label=Profile%20Views&color=12&icon=5&pretty=true)](https://josegaldamez.dev/)
+![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGaldamez&show_icons=true&theme=tokyonight)
+[![](https://visitcount.itsvg.in/api?id=JoseGaldamez&label=Profile%20Views&color=12&icon=5&pretty=true)](https://josegaldamez.dev/)

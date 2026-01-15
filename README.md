@@ -27,6 +27,19 @@
 
 ---
 
-### 📊 GitHub Stats
-![José's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoseGaldamez&show_icons=true&theme=tokyonight)
-[![](https://visitcount.itsvg.in/api?id=JoseGaldamez&label=Profile%20Views&color=12&icon=5&pretty=true)](https://josegaldamez.dev/)
+### 🤝 Conecta conmigo
+
+<div align="left">
+  <a href="https://josegaldamez.dev/" target="_blank">
+    <img src="https://img.shields.io/badge/Website-josegaldamez.dev-2e2e2e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/josegaldamezdev/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://www.youtube.com/@josegaldamez-dev" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://x.com/josegaldamezdev" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</div>

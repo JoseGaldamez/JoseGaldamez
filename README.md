@@ -6,7 +6,7 @@ Welcome to my profile! I am a passionate software engineer focused on building h
 
 In addition to engineering products, I enjoy sharing knowledge with the developer community through educational content.
 
-- Currently building next-generation developer tools, cloud platform implementations and mobile applications, ckeck it on **[Rootware Labs](https://rootwarelabs.com)**.
+- Currently building next-generation developer tools, cloud first and mobile applications, ckeck it on **[Rootware Labs](https://rootwarelabs.com)**.
 
 - Content Creator at **[Jose Galdamez - Dev](https://www.youtube.com/@josegaldamez-dev)** (YouTube).
 

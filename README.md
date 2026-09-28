@@ -6,13 +6,21 @@ Welcome to my profile! I am a passionate software engineer focused on building h
 
 In addition to engineering products, I enjoy sharing knowledge with the developer community through educational content.
 
-- Currently building next-generation developer tools, cloud first and mobile applications, ckeck it on **[Rootware Labs](https://rootwarelabs.com)**.
+Content Creator at **[Jose Galdamez - Dev](https://www.youtube.com/@josegaldamez-dev)** (YouTube).
 
-- Content Creator at **[Jose Galdamez - Dev](https://www.youtube.com/@josegaldamez-dev)** (YouTube).
-
-- **Open to Work / Collaboration:** Always looking for exciting challenges and professional opportunities.
+**Open to Work / Collaboration:** Always looking for exciting challenges and professional opportunities.
 
 ---
+
+## Projects
+
+- [Nubbe.run](https://nubbe.run) - World-Class Serverless Hosting for Latin America.
+- [Kapivara](https://kapivara.dev/) - The Modern, High-Performance API Client for Professionals.
+- [Kongrega](https://kongrega.app/) - Mobile application for churches to manage their members, groups and events.
+- [MerlinCode](https://merlincode.josegaldamez.dev/) - Harnessing AI to help developers to write better code using multiprovider LLMs.
+- [Kueree](https://kueree.com/) - A SAAS for restaurants to manage their menus, orders and customers.
+- [TextMotion Studio](https://textmotionstudio.josegaldamez.dev/) - Desktop app to create captions for viral videos.
+- [Turivisa](https://turivisa.com/) - AI-Powered US Tourist Visa Pre-qualification.
 
 ## Tech Stack
 
@@ -59,6 +67,30 @@ _World-Class Serverless Hosting for Latin America._
 - **Key Features:** Zero configuration, GitOps automatic deployments, auto-provisioned SSL/TLS certificates, hybrid serverless orchestration (Google Cloud Run + Cloudflare Edge), and global low-latency routing.
 - **Tech Stack:** Astro, React, Golang, Google Cloud Platform (GCP), Cloudflare.
 
+### [Kongrega](https://kongrega.app/)
+
+_Mobile application for churches to manage their members, groups and events._
+
+- **Overview:** A mobile application that helps churches manage their members, groups and events.
+- **Key Features:** Read the Bible, listen to sermons, manage groups, events and members.
+- **Tech Stack:** Flutter, Golang, Supabase, PostgreSQL, Google Cloud Platform (GCP), Cloudflare.
+
+### [TextMotion Studio](https://textmotionstudio.josegaldamez.dev/)
+
+_Desktop app to create captions for viral videos._
+
+- **Overview:** A desktop application that helps to create captions for videos.
+- **Key Features:** Auto-detect speech, transcribes audio, detect silence, add captions to videos, style them with animations and effects.
+- **Tech Stack:** Wails, Golang, Typescript, Reactjs, SQLite, FFmpeg, Whisper.
+
+### [Kueree](https://kueree.com/)
+
+_A SAAS for restaurants to manage their menus, orders and customers._
+
+- **Overview:** A SAAS for restaurants to manage their menus, orders and customers.
+- **Key Features:** Manage menus, orders and customers, Create QR code menu, manage tables and take orders from customers.
+- **Tech Stack:** Nextjs, Typescript, Golang, Supabase, PostgreSQL, Google Cloud Platform (GCP), Cloudflare.
+
 ### [Kapivara](https://www.kapivara.dev/)
 
 _The Modern, High-Performance API Client for Professionals._
@@ -74,6 +106,14 @@ _AI-Powered US Tourist Visa Pre-qualification._
 - **Overview:** A specialized mobile app designed for Central American applicants to evaluate their profile and estimate the probability of success for an American tourist visa.
 - **Key Features:** Consular criteria integration, AI profile assessment in under 10 minutes, custom PDF reports with strengths, weaknesses, and actionable recommendations without storing sensitive personal data.
 - **Tech Stack:** Ionic, TypeScript, Capacitor, AI integrations, Mobile, Azure.
+
+### [MerlinCode](https://merlincode.josegaldamez.dev/)
+
+_Harnessing AI to help developers to write better code using multiprovider LLMs._
+
+- **Overview:** A desktop application that helps developers write better code by using AI models from multiple providers.
+- **Key Features:** The app integrates AI models from OpenAI, Anthropic, and Gemini to help developers write better code.
+- **Tech Stack:** TypeScript, Reactjs, Golang, SQLite, LLMs, OpenAI, Anthropic, Gemini.
 
 ---
 
